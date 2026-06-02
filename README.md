@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
+
 <h3 align="center">
-Full Stack Developer • AI & Data Analytics Enthusiast • Building Real-World Projects
+Full Stack Developer • Data Analytics Enthusiast • Exploring AI • Building Real-World Projects
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myselfsneha&label=Profile%20views&color=0e75b6&style=flat" alt="myselfsneha" />
+  <img src="https://komarev.com/ghpvc/?username=myselfsneha&label=Profile%20Views&color=0e75b6&style=flat" alt="myselfsneha" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Real-World+Projects;Exploring+Modern+Technologies;Always+Learning+%26+Growing&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Exploring+AI;Building+Real-World+Projects;Always+Learning+%26+Growing&center=true&width=650&height=45">
 </p>
 
 ---
@@ -19,7 +20,7 @@ Full Stack Developer • AI & Data Analytics Enthusiast • Building Real-World 
 * 🤖 Exploring **AI, Data Analytics, and problem-solving** through real-world projects
 * 🌱 Continuously learning modern technologies and improving development skills
 * 🚀 Interested in creating impactful solutions that combine creativity with technology
-* 🎯 Actively preparing for placements, internships, and collaborative opportunities
+* 🎯 Open to internships, collaborations, and opportunities to build impactful technology
 
 ---
 
@@ -52,9 +53,10 @@ Full Stack Developer • AI & Data Analytics Enthusiast • Building Real-World 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfsneha&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=myselfsneha&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -69,19 +71,19 @@ Personal developer portfolio showcasing projects, technical skills, and creative
 
 ---
 
+### 📊 Road Accident Analysis Dashboard
+
+Interactive dashboard analyzing accident trends, severity levels, weather conditions, and time-based insights using data visualization techniques.
+
+🔗 https://github.com/myselfsneha/Road-Accident-Analysis-Dashboard
+
+---
+
 ### 🧩 DocMagic
 
 A document management and utility-based project focused on improving productivity and simplifying document-related workflows.
 
 🔗 https://github.com/myselfsneha/DocMagic
-
----
-
-### 🎨 Rohan Portfolio
-
-A professionally designed portfolio website created for a musician, focused on responsive UI and modern web experience.
-
-🔗 https://github.com/myselfsneha/rohan-portfolio
 
 ---
 
@@ -112,7 +114,6 @@ A professionally designed portfolio website created for a musician, focused on r
 </p>
 
 ---
-
 <p align="center">
 ✨ Building projects, learning continuously, and growing one commit at a time.
 </p>
