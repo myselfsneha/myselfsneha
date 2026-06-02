@@ -66,6 +66,14 @@ Full Stack Developer • AI & Data Analytics Enthusiast • Building Real-World 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=myselfsneha&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🌐 Sneha Portfolio
