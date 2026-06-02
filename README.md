@@ -66,10 +66,14 @@ Full Stack Developer • AI & Data Analytics Enthusiast • Building Real-World 
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
+
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myselfsneha&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+  <img src="https://streak-stats.demolab.com?user=myselfsneha&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
