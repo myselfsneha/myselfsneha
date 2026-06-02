@@ -113,8 +113,6 @@ A professionally designed portfolio website created for a musician, focused on r
 
 ---
 
----
-
 <p align="center">
 ✨ Building projects, learning continuously, and growing one commit at a time.
 </p>
