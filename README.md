@@ -53,10 +53,10 @@ Full Stack Developer • Data Analytics Enthusiast • Exploring AI • Building
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=myselfsneha&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfsneha&theme=tokyonight&hide_border=true" height="170"/> 
 </p>
 
 ---
