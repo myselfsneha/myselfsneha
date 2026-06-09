@@ -58,11 +58,6 @@ Full Stack Developer • Data Analytics Enthusiast • Exploring AI • Building
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfsneha&theme=tokyonight&hide_border=true" height="170"/> 
 </p>
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=myselfsneha&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=myselfsneha)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfsneha&layout=compact)
-![](https://komarev.com/ghpvc/?username=myselfsneha)
-[![trophy](https://github-profile-trophy.vercel.app/?username=myselfsneha)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
