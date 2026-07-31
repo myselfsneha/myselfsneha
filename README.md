@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sneha</h1>
+<h1 align="center">Hi 👋, I'm Sneha Singh</h1>
 
 <h3 align="center">
-Full Stack Developer • Data Analytics Enthusiast • Exploring AI • Building Real-World Projects
+Master's Student in Computer Science • Full-Stack Developer • Data Analytics Enthusiast • Exploring AI & Machine Learning
 </h3>
 
 <p align="center">
@@ -9,18 +9,18 @@ Full Stack Developer • Data Analytics Enthusiast • Exploring AI • Building
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Exploring+AI;Building+Real-World+Projects;Always+Learning+%26+Growing&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Data+Analytics+Enthusiast;Exploring+AI+%26+Machine+Learning;Building+Real-World+Projects;Always+Learning+%26+Growing&center=true&width=700&height=45">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 💻 Passionate **Full Stack Developer** focused on building scalable and user-friendly applications
-* 🤖 Exploring **AI, Data Analytics, and problem-solving** through real-world projects
-* 🌱 Continuously learning modern technologies and improving development skills
-* 🚀 Interested in creating impactful solutions that combine creativity with technology
-* 🎯 Open to internships, collaborations, and opportunities to build impactful technology
+- 🎓 Pursuing **M.Sc. in Computer Science** at **DAVV, Indore**
+- 💻 Passionate about **Full-Stack Development, Data Analytics, and AI**
+- 🚀 Building real-world web applications using modern technologies
+- 🌱 Continuously learning **Artificial Intelligence, Machine Learning, and Software Development**
+- 🤝 Open to internships, collaborations, and campus placement opportunities
 
 ---
 
@@ -29,71 +29,79 @@ Full Stack Developer • Data Analytics Enthusiast • Exploring AI • Building
 ### 👩‍💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frameworks & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 </p>
 
-### 📊 Currently Exploring
+### 🛠️ Developer Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 📊 Data Analytics & AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfsneha&theme=tokyonight&hide_border=true" height="170"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfsneha&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
+### 🏢 Diamond Square
+
+Full-stack Society Management System built using **React.js, Node.js, Express.js, PostgreSQL, and Supabase** with complaint management, visitor tracking, notices, and maintenance modules.
+
+🔗 https://github.com/myselfsneha/diamond-square
+
+---
+
+### 📊 Blinkit Sales Analysis Dashboard
+
+Interactive Power BI dashboard analyzing sales, inventory, customer behavior, and business performance using KPIs, charts, filters, and slicers.
+
+🔗 https://github.com/myselfsneha/Blinkit-Sales-Analysis-Dashboard
+
+---
+
 ### 🌐 Sneha Portfolio
 
-Personal developer portfolio showcasing projects, technical skills, and creative frontend design.
+Personal developer portfolio showcasing projects, technical skills, and responsive web development.
 
 🔗 https://myselfsneha.github.io/sneha-portfolio/
 
 ---
 
-### 📊 Road Accident Analysis Dashboard
-
-Interactive dashboard analyzing accident trends, severity levels, weather conditions, and time-based insights using data visualization techniques.
-
-🔗 https://github.com/myselfsneha/Road-Accident-Analysis-Dashboard
-
----
-
-### 🧩 DocMagic
-
-A document management and utility-based project focused on improving productivity and simplifying document-related workflows.
-
-🔗 https://github.com/myselfsneha/DocMagic
-
----
-
 ## 🌱 Currently Learning
 
-* Advanced React & Backend Development
-* AI/ML Fundamentals
-* Data Analytics & Visualization
-* REST APIs & Scalable Web Applications
-* Problem Solving & DSA
+- Artificial Intelligence & Machine Learning
+- Java
+- Data Structures & Algorithms
+- Computer Networks
+- Advanced Full-Stack Development
 
 ---
 
@@ -108,12 +116,13 @@ A document management and utility-based project focused on improving productivit
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:snehaasingh.2409@gmail.com">
+  <a href="mailto:snehaa.singhhh.6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
+
 <p align="center">
-✨ Building projects, learning continuously, and growing one commit at a time.
+✨ Building impactful software, learning continuously, and growing one commit at a time.
 </p>
